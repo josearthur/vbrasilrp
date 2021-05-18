@@ -1,0 +1,1 @@
+Com objetivo de melhorar a jogabilidade do servidor implementamos um MOD que é o FPSBOOST. Ele não é obrigatorio isso quer dizer, vc pode desabilitar caso você queira. Para desabilitar é so remover o plugin ValheimFPSBoost da pasta BepInEEx/plugins. Caso queira adicionar novamente é so arrastar novamente para a mesama pasta.
